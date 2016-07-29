@@ -1,2 +1,4 @@
 today is 2016/07/19
-a beautiful  friday.
+$a beautiful  friday.
+by now i learn git 
+but next what should do?
